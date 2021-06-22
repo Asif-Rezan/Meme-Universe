@@ -1,0 +1,11 @@
+{
+  "configurations": [
+  {
+    "name": "Launch Chrome",
+    "request": "launch",
+    "type": "pwa-chrome",
+    "url": "http://localhost//MEME UNIVERSE//index.php",
+    "webRoot": "${workspaceFolder}"
+  }
+  ]
+}
